@@ -1,6 +1,6 @@
 ## ¡Hola, bienvenido! 
 
-Soy Desarrollador Web Full Stack, enfocado en construir soluciones digitales que marcan la diferencia. Siempre con ganas de aprender cosas nuevas y mejorar mis habilidades. 🧑‍💻
+Soy Desarrollador Full Stack, enfocado en construir soluciones digitales que marcan la diferencia. Siempre con ganas de aprender cosas nuevas y mejorar mis habilidades. 🧑‍💻
 ##
 
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EIAHRJAY&show_icons=true&theme=dark"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EIAHRJAY&layout=compact&theme=dark">
