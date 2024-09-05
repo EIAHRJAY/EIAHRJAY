@@ -13,7 +13,7 @@ Soy Desarrollador Web Full Stack, enfocado en construir soluciones digitales que
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://github.com/user-attachments/assets/81b0c579-1f19-469b-97a1-f72aaca7770a" alt="image" style="display: flex; " width="40" /><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
-<img src="https://github.com/user-attachments/assets/e58e170e-bb7a-447b-b84e-b91fd6a1b3b8" width="60">
+<img src="https://github.com/user-attachments/assets/e58e170e-bb7a-447b-b84e-b91fd6a1b3b8" width="40">
 ##
 ### contacto
 <a href="https://www.linkedin.com/in/eduardo-ribeiro-393857271/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
