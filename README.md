@@ -16,7 +16,7 @@ Soy Desarrollador Full Stack, enfocado en construir soluciones digitales que mar
 <img src="https://github.com/user-attachments/assets/e58e170e-bb7a-447b-b84e-b91fd6a1b3b8" width="40">
 ##
 ### contacto
-<a href="https://www.linkedin.com/in/eduardo-ribeiro-393857271/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<a href="https://www.linkedin.com/in/eduardoribeiro-eiahrjay/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 <a href="https://wa.me/34611283538
 "><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 <a href="mailto:er70302409@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
